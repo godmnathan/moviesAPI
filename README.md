@@ -1,1 +1,1 @@
-A simple Movies API in Java with Spring Boot, React and MongoDB
+A simple Movies API in Java with Spring Boot and MongoDB
